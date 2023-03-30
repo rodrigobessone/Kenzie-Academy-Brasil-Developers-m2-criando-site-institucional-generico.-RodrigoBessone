@@ -1,0 +1,35 @@
+.main_fifth-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 100px 236px;
+    gap: 169px;
+
+    position: absolute;
+    width: 1728px;
+    height: 1175px;
+    left: 0px;
+    top: 1151px;
+}
+
+
+position: absolute;
+width: 614px;
+height: 120px;
+left: 0px;
+top: 77px;
+
+/* font/5/400 */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+
+/* Grey Scale/grey-4 */
+
+color: #ADB5BD;

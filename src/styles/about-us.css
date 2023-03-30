@@ -1,0 +1,29 @@
+.main__second-div {
+    padding: 82px 10%;
+    background-color: var(--grey-0);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main__second-h2 {
+    width: 285px;
+    height: 45px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 140%;
+    color: var(--brand-3);
+}
+
+.main__second-p {
+    width: 611px;
+    height: 120px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: var(--grey-4);
+}

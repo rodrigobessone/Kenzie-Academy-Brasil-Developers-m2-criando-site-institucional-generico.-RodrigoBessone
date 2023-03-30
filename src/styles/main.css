@@ -1,0 +1,45 @@
+.main {
+    background-color: var(--grey-1);
+
+}
+
+.main__first-div {
+    height: 781px;
+    display: flex;
+    flex-direction: column;
+    gap: 44px;
+    padding: 82px 10%;
+    justify-content: center;
+    align-items: center;
+}
+
+.main__first-h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 52px;
+    line-height: 140%;
+    text-align: center;
+    color: var(--brand-3);
+}
+
+.main__first-h1 span {
+    color: var(--brand-1);
+}
+
+.main__first-p {
+    width: 70%;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: var(--grey-3);
+    text-align: center;
+}
+
+.main__first-button {
+    padding: 0px, 32px, 0px, 32px;
+    width: 133px;
+}
